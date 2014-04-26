@@ -1,0 +1,4 @@
+This program prints "Fizz" on multiple of 3, "Buzz" on multiples of 5, and "FizzBuzz" on multiples of 3 and 5, and the number otherwise.
+
+Simply call fizzbuzz with the start and end you want and it will print everything out (end is inclusive).
+There is a simple output of fizzbuzz(1,100) in the fizzbuzz.out file.
